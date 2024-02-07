@@ -48,6 +48,7 @@ function generateMessage(noCount) {
     "Don't do this to me :(",
     "You're breaking my heart",
     "I'm gonna cry...",
+    "فهودي😉",
   ];
 
   const messageIndex = Math.min(noCount, messages.length - 1);
